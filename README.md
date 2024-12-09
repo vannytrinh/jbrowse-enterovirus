@@ -26,6 +26,11 @@ brew install veryfasttree
 ```
 
 ## download 
+Clone this repo
+```
+git clone https://github.com/vannytrinh/jbrowse-enterovirus.git
+cd jbrowse-enterovirus
+```
 
 Define path where jbrowse is stored. For a normal linux installation, the folder should be `/var/www` or `/var/www/html`, whereas when you install on macOS using brew it will likely be in `/opt/homebrew/var/www` (for M1) or `/usr/local/var/www` (for Intel).
 
