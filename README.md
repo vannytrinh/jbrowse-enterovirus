@@ -3,8 +3,8 @@
 Package to download and process RefSeq human enterovirus data for jbrowse 
 
 ## Static site 
-The static site for this can be found [HERE](https://vannytrinh.github.io/bioe147-jbrowse-static/?session=local-YUdyL7NaN4le5pidqLUdJ)  
-For MSA visualization, the user must set the plug in and files up in GUI. Please follow directions below or on the [static page documentation](https://github.com/vannytrinh/bioe147-jbrowse-static).
+The static site for this can be found [HERE](https://vannytrinh.github.io/jbrowse-static/)  
+For MSA visualization, the user must set the plug in and files up in GUI. Please follow directions below or on the [static page documentation](https://github.com/vannytrinh/jbrowse-static).
 
 ## set up
 Before downloading the enterovirus database, please follow the steps below 
